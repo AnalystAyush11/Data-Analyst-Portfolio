@@ -1,2 +1,3 @@
 # Data-Analyst-Portfolio
-This repository contains my Data Analytics portfolio projects ranging from  Python, Tableau, Excel &amp; SQL  
+Repository containing portfolio of data Analysis projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks, Tableau, Excel & SQL  .
+
