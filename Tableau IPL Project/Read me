@@ -1,1 +1,8 @@
 We are selecting players based on the performance in IPL from 2016 to 2021, as we all know IPL is a 20 overs format thus a player must be fit enough to score more runs facing less balls and many other factors as follow: We have selected cricketers for Team India for Upcoming T 20 World Cup 2022 on the basis of following criteria: Number of balls faced by a player. Number of dismissals. Balls per wicket
+# Steps followed by us for successful completion of our project
+1 Data collection of IPL data set
+2 Data transformation of IPL data set 3 Dimensionality reduction of IPL data set
+3 Deleting Outliers
+4 Data reduction of IPL data set
+5 Data Cleaning
+6 Data visualization of IPL data set 
