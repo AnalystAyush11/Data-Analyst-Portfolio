@@ -1,0 +1,7 @@
+Issues in this Dataset
+Drop Unwanted Columns
+Change Columns Names to Small Letters
+Change Date column data type to datetime
+Extract (year-month-day) From Date Column to Create New Columns
+Filling Missing values with zeros
+Change Laid_Off_Count column data type to integer
