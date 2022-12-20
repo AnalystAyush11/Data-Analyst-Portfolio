@@ -1,4 +1,5 @@
-Issues in this Dataset
+This dataset was scraped from Layoffs.fyi with the hope to look into analyzing recent mass layoffs and discover useful insights and patterns.
+Issues in this Dataset I solved
 Drop Unwanted Columns
 Change Columns Names to Small Letters
 Change Date column data type to datetime
